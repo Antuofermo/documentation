@@ -27,7 +27,7 @@ What you'll need most:
 
 This will actually do two things: ````git fetch origin```` & ````git merge````
 
-First it will fetch the changes that you'll be able to see in your changes and the latest will merge the changes to your branch. 
+First it will fetch the changes but not merge it yet to your branch and the latest will merge the changes to your branch. 
 git pull will directly merge changes that doesn't have any conflicts, if there is, it will show on your editor as conflicts file. 
 
 - create new branch and checkout out the branch (it creates/ branches off a new branch out of main) : ````git checkout -b MOIA-{number}_new_branch_name````
