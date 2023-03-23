@@ -57,7 +57,7 @@ so if you were checked on `main` then go to `new-branch` and write ````git branc
 
 - It happened to me, many time, maybe you'd find that useful: I don't like the name of the branch I created and want to change it, then you can do that easily if you didn't push it remotely yet: 
 
-create new branch out of the old one - and then delete the old branch
+create new branch out of the old one - and then delete the old branch if locally
 
 ````git branch -m new-branch-name```` 
 
